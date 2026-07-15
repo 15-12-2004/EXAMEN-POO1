@@ -124,7 +124,7 @@ Gestion_Clinique_Medicale/
 ## 1. Cloner le projet
 
 ```bash
-git clone https://github.com/Bénédiction/EXAMEN POO1
+git clone https://github.com/Blessing/EXAMEN POO1
 ```
 
 ---
